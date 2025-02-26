@@ -21,7 +21,7 @@ This project is a **Heart Disease Prediction System** using Machine Learning. Th
 ### Prerequisites
 Ensure you have the following installed:
 - Python (>=3.7)
-- Jupyter Notebook
+- Jupyter Notebook/ Colab
 - Required Python Libraries (Install using the command below)
 
 ```bash
