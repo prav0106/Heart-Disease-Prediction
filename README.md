@@ -12,21 +12,14 @@ This project is a **Heart Disease Prediction System** using Machine Learning. Th
 
 ## 🛠️ Technologies Used
 - 🐍 Python
-- 📒 Jupyter Notebook/ Colab
+- 📒 Google Colab
 - 📊 Pandas & NumPy
 - 📈 Matplotlib & Seaborn (for visualization)
 - 🤖 Scikit-learn (for ML models)
 
 ## 🔧 Installation
 ### Prerequisites
-Ensure you have the following installed:
-- Python (>=3.7)
-- Jupyter Notebook/ Colab
-- Required Python Libraries (Install using the command below)
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
+Ensure you have a Google account and access to Google Colab.
 
 ### 📂 Clone the Repository
 ```bash
@@ -35,12 +28,13 @@ cd heart-disease-prediction
 ```
 
 ## 🏃 Usage
-1. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Run the `Heart Disease Detection Code.ipynb` notebook.
-3. Follow the steps to load the dataset, preprocess data, train models, and make predictions.
+1. Open Google Colab and upload the `Heart Disease Detection Code.ipynb` notebook.
+2. Run the cells sequentially to:
+   - Load the dataset
+   - Preprocess the data
+   - Train the model
+   - Evaluate performance
+   - Make predictions
 
 ## 📊 Dataset
 The dataset used in this project can be found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease).
@@ -55,3 +49,17 @@ If you'd like to contribute:
 3. 💾 Commit your changes (`git commit -m 'Add feature'`)
 4. 🚀 Push to the branch (`git push origin feature-branch`)
 5. 🎯 Open a Pull Request
+
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+For any questions or suggestions, feel free to reach out:
+- **👩‍💻 Your Name**: Pravleen Kaur
+- 📧 **Email**: your-email@example.com
+- 🔗 **GitHub**: [your-username](https://github.com/your-username)
+
+---
+
+💡 *Feel free to modify the repository name and other details as per your GitHub account.* 🚀
+
