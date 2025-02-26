@@ -37,7 +37,7 @@ cd heart-disease-prediction
    - Make predictions
 
 ## 📊 Dataset
-The dataset used in this project can be found in 
+The dataset used in this project can be found in The dataset used in this project can be found in UCI Machine Learning Repository.
 
 ## 📈 Model Performance
 The model is evaluated using **accuracy, precision, recall, and F1-score**. Confusion matrices and ROC curves are used for performance visualization.
