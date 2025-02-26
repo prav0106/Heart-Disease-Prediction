@@ -1,23 +1,23 @@
-# Heart Disease Prediction
+# ❤️ Heart Disease Prediction 🏥
 
-## Overview
+## 📝 Overview
 This project is a **Heart Disease Prediction System** using Machine Learning. The model analyzes patient health parameters to determine the likelihood of heart disease. The dataset used consists of multiple features such as age, blood pressure, cholesterol levels, and more.
 
-## Features
-- Data Preprocessing and Cleaning
-- Exploratory Data Analysis (EDA)
-- Machine Learning Model Training
-- Model Evaluation and Accuracy Analysis
-- Interactive Prediction
+## 🚀 Features
+✅ Data Preprocessing and Cleaning  
+✅ Exploratory Data Analysis (EDA)  
+✅ Machine Learning Model Training  
+✅ Model Evaluation and Accuracy Analysis  
+✅ Interactive Prediction  
 
-## Technologies Used
-- Python
-- Jupyter Notebook
-- Pandas & NumPy
-- Matplotlib & Seaborn (for visualization)
-- Scikit-learn (for ML models)
+## 🛠️ Technologies Used
+- 🐍 Python
+- 📒 Jupyter Notebook
+- 📊 Pandas & NumPy
+- 📈 Matplotlib & Seaborn (for visualization)
+- 🤖 Scikit-learn (for ML models)
 
-## Installation
+## 🔧 Installation
 ### Prerequisites
 Ensure you have the following installed:
 - Python (>=3.7)
@@ -28,13 +28,13 @@ Ensure you have the following installed:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-### Clone the Repository
+### 📂 Clone the Repository
 ```bash
 git clone https://github.com/your-username/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
-## Usage
+## 🏃 Usage
 1. Open Jupyter Notebook:
    ```bash
    jupyter notebook
@@ -42,30 +42,30 @@ cd heart-disease-prediction
 2. Run the `Heart Disease Detection Code.ipynb` notebook.
 3. Follow the steps to load the dataset, preprocess data, train models, and make predictions.
 
-## Dataset
+## 📊 Dataset
 The dataset used in this project can be found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease).
 
-## Model Performance
-The model is evaluated using accuracy, precision, recall, and F1-score. Confusion matrices and ROC curves are used for performance visualization.
+## 📈 Model Performance
+The model is evaluated using **accuracy, precision, recall, and F1-score**. Confusion matrices and ROC curves are used for performance visualization.
 
-## Contributing
+## 🤝 Contributing
 If you'd like to contribute:
-1. Fork the repository
-2. Create a new branch (`feature-branch`)
-3. Commit your changes (`git commit -m 'Add feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
+1. 🔀 Fork the repository
+2. 🌱 Create a new branch (`feature-branch`)
+3. 💾 Commit your changes (`git commit -m 'Add feature'`)
+4. 🚀 Push to the branch (`git push origin feature-branch`)
+5. 🎯 Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📬 Contact
 For any questions or suggestions, feel free to reach out:
-- **Your Name**: Pravleen Kaur
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **👩‍💻 Your Name**: Pravleen Kaur
+- 📧 **Email**: your-email@example.com
+- 🔗 **GitHub**: [your-username](https://github.com/your-username)
 
 ---
 
-*Feel free to modify the repository name and other details as per your GitHub account.*
+💡 *Feel free to modify the repository name and other details as per your GitHub account.* 🚀
 
