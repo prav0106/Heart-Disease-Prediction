@@ -12,7 +12,7 @@ This project is a **Heart Disease Prediction System** using Machine Learning. Th
 
 ## 🛠️ Technologies Used
 - 🐍 Python
-- 📒 Jupyter Notebook
+- 📒 Jupyter Notebook/ Colab
 - 📊 Pandas & NumPy
 - 📈 Matplotlib & Seaborn (for visualization)
 - 🤖 Scikit-learn (for ML models)
