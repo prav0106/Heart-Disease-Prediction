@@ -37,7 +37,7 @@ cd heart-disease-prediction
    - Make predictions
 
 ## 📊 Dataset
-The dataset used in this project can be found in The dataset used in this project can be found in UCI Machine Learning Repository.
+The dataset used in this project can be found in [Here](https://archive.ics.uci.edu/ml/datasets/heart+Disease).
 
 ## 📈 Model Performance
 The model is evaluated using **accuracy, precision, recall, and F1-score**. Confusion matrices and ROC curves are used for performance visualization.
@@ -49,3 +49,17 @@ If you'd like to contribute:
 3. 💾 Commit your changes (`git commit -m 'Add feature'`)
 4. 🚀 Push to the branch (`git push origin feature-branch`)
 5. 🎯 Open a Pull Request
+
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+For any questions or suggestions, feel free to reach out:
+- **👩‍💻 Your Name**: Pravleen Kaur
+- 📧 **Email**: your-email@example.com
+- 🔗 **GitHub**: [your-username](https://github.com/your-username)
+
+---
+
+💡 *Feel free to modify the repository name and other details as per your GitHub account.* 🚀
+
