@@ -29,7 +29,7 @@ Ensure you have a Google account and access to Google Colab.
 ### 📂 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/prav0106/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
