@@ -3,7 +3,6 @@
 ## 📝 Overview
 This project is a **Heart Disease Prediction System** using Machine Learning. The model analyzes patient health parameters to determine the likelihood of heart disease. The dataset used consists of multiple features such as age, blood pressure, cholesterol levels, and more..
 
-
 ## 🚀 Features
 
 ✅ Data Preprocessing and Cleaning\
