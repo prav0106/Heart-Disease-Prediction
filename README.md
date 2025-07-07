@@ -12,7 +12,7 @@ This project is a **Heart Disease Prediction System** using Machine Learning. Th
 ✅ Interactive Prediction
   
 ## 🛠️ Technologies Used
-
+ 
 - 🐍 Python
 - 📒 Google Colab
 - 📊 Pandas & NumPy
