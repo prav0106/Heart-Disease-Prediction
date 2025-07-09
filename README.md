@@ -10,7 +10,7 @@ This project is a **Heart Disease Prediction System** using Machine Learning. Th
 ✅ Machine Learning Model Training\
 ✅ Model Evaluation and Accuracy Analysis\
 ✅ Interactive Prediction
-  
+
 ## 🛠️ Technologies Used 
  
 - 🐍 Python
